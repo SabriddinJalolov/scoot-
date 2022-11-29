@@ -83,6 +83,7 @@ img {
   margin-left: auto;
   padding-right: 20px;
   padding-left: 20px;
+  
 }
 
 ul{
@@ -337,6 +338,8 @@ margin-bottom: 40px;
 .signup-section {
   background-image: url(../images/sign-section-bg.jpg);
   background-repeat: no-repeat;
+  background-size: 100%;
+ 
 }
 
 .signup-section-wrapper {
@@ -345,6 +348,7 @@ margin-bottom: 40px;
   justify-content: space-between;
   padding-top: 102px;
   padding-bottom: 102px;
+  
 }
 
 .signup-section-title {
@@ -370,6 +374,7 @@ margin-bottom: 40px;
 
 /* **** site footer start **** */
 .site-footer {
+  
   padding-top: 35px;
   padding-bottom: 35px;
   background-color: var(--footer-bg-color);
